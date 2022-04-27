@@ -6,6 +6,8 @@
 
 - Check on [Opensea](https://testnets.opensea.io/assets/0x8ace1669dbb20b10aafe910ee5ef2005a7123ee7/1)
 
+- Token URI: "https://jsonkeeper.com/b/SAGC"
+
 ## Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
